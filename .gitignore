@@ -27,7 +27,7 @@ stack.yaml.lock
 hs_err_pid*
 
 # IntelliJ
-/.idea/
+*/.idea/
 *.iml
 
 # Maven
